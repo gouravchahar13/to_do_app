@@ -1,4 +1,4 @@
-<img src='front.png' height=300px width=300px>
+<img src='front.png' height=300px width=50vw style='margin:auto;'>
 
 
 # To do app:
